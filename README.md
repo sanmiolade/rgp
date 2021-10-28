@@ -22,3 +22,18 @@ The project is led by  **Prof AJ McKnight** and her fellow team of CKD researche
 ![image](https://user-images.githubusercontent.com/80102746/110207706-35968200-7e7d-11eb-9e40-210a83fb9971.png)
 
 
+## Template Design View
+
+![image](https://user-images.githubusercontent.com/79588708/139294531-0f207ba4-2e5f-4395-9318-f6a3fecd3709.png)
+
+
+![image](https://user-images.githubusercontent.com/79588708/139294407-08cd6c17-2937-43c9-994a-1da1510d3cb4.png)
+
+
+
+## Database view
+![image](https://user-images.githubusercontent.com/79588708/139293520-66402d43-a1aa-411d-ba03-d0f813eee066.png)
+
+
+![image](https://user-images.githubusercontent.com/79588708/139293197-39a2657b-31ae-4014-83ea-d120222cee0f.png)
+
